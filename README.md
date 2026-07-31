@@ -1,7 +1,7 @@
 # Hi,👋
 # 🤖 Bilal Zubair Nizam
 
-### AI Engineer | MS Artificial Intelligence | Telecom & PMO Professional
+### AI Engineer | MS Artificial Intelligence | PMO Professional
 ## About Me
 
 🎓 MS Artificial Intelligence Engineer
@@ -67,6 +67,8 @@
 National University of Technology (NUTECH)
 
 *BS Electrical Engineering (Electronics)*
+
+The University of Faisalabad
 
 ---
 
